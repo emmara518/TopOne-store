@@ -1,0 +1,6 @@
+{
+  "name": "TOP ONE Beauty Distribution",
+  "description": "منصة توب ون لتوزيع مستحضرات التجميل بالجملة والتجزئة في مصر، شبكة تجار معتمدين وأسعار موحدة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
